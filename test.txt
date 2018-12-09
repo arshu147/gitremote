@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 40AF-A473
+
+ Directory of C:\Users\Arshad Shaik\Desktop\gitdemo
+
+09-12-2018  22:20    <DIR>          .
+09-12-2018  22:20    <DIR>          ..
+09-12-2018  22:19    <DIR>          .git
+09-12-2018  22:20                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  131,532,034,048 bytes free
